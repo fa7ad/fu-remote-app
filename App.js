@@ -4,7 +4,7 @@ import { Provider, connect } from 'react-redux'
 
 import store, { sendMessage } from './store/'
 
-const appSuccessMessage = {
+const appStatus = {
   0: 'fail',
   1: 'success',
   '-1': 'loading'
@@ -12,7 +12,7 @@ const appSuccessMessage = {
 
 const App = ({ sendMessage, success }) => (
   <View style={styles.container}>
-    <Text>{appSuccessMessage[success]}</Text>
+    <Text>{appStatus[success]}</Text>
     <Button onPress={e => sendMessage('vol+')} title='Vol+' />
     <Button onPress={e => sendMessage('vol-')} title='Vol-' />
   </View>
