@@ -1,17 +1,22 @@
 import React from 'react'
-import { StyleSheet, Text, View } from 'react-native'
+import { StyleSheet, Text, View, Button } from 'react-native'
+import { Provider, connect } from 'react-redux'
 
-class App extends React.Component {
-  render () {
-    return (
-      <View style={styles.container}>
-        <Text>Open up App.js to start working on your app!</Text>
-        <Text>Changes you make will automatically reload.</Text>
-        <Text>Shake your phone to open the developer menu.</Text>
-      </View>
-    )
-  }
+import store, { sendMessage } from './store/'
+
+const appSuccessMessage = {
+  0: 'fail',
+  1: 'success',
+  '-1': 'loading'
 }
+
+const App = ({ sendMessage, success }) => (
+  <View style={styles.container}>
+    <Text>{appSuccessMessage[success]}</Text>
+    <Button onPress={e => sendMessage('vol+')} title='Vol+' />
+    <Button onPress={e => sendMessage('vol-')} title='Vol-' />
+  </View>
+)
 
 const styles = StyleSheet.create({
   container: {
@@ -22,4 +27,6 @@ const styles = StyleSheet.create({
   }
 })
 
-export default App
+const ConnApp = connect(state => state, { sendMessage })(App)
+
+export default p => <Provider store={store}><ConnApp /></Provider>
