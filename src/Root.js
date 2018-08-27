@@ -1,29 +1,51 @@
-import { createDrawerNavigator } from 'react-navigation'
-import { StyleSheet } from 'react-native'
+import React from 'react'
+import { View, StatusBar, Platform } from 'react-native'
+import Icon from 'react-native-vector-icons/Ionicons'
+import {
+  createMaterialBottomTabNavigator
+} from 'react-navigation-material-bottom-tabs'
 
-import HomeView from './HomeView'
+import RemoteView from './RemoteView'
 import SettingsView from './SettingsView'
 
-const styles = StyleSheet.create({
-  view: {
-    flex: 1,
-    alignItems: 'center'
-  }
-})
+const view = (Component, icon) =>
+  Object.assign(
+    p => (
+      <View
+        style={{
+          flex: 1,
+          alignItems: 'center'
+        }}
+      >
+        <StatusBar animated />
+        <Component />
+      </View>
+    ),
+    {
+      navigationOptions: {
+        tabBarIcon: ({ focused }) => (
+          <Icon name={icon} color={focused ? '#ffffff' : '#3e2465'} size={24} />
+        )
+      }
+    }
+  )
 
-const App = createDrawerNavigator({
-  Home: {
-    screen: HomeView
+export default createMaterialBottomTabNavigator(
+  {
+    Remote: {
+      screen: view(RemoteView, 'md-keypad')
+    },
+    Settings: {
+      screen: view(SettingsView, 'md-settings')
+    }
   },
-  Settings: {
-    screen: SettingsView
+  {
+    shifting: true,
+    style: {
+      paddingTop: Platform.OS === 'ios' ? 0 : StatusBar.currentHeight
+    },
+    activeTintColor: '#f0edf6',
+    inactiveTintColor: '#3e2465',
+    barStyle: { backgroundColor: '#694fad' }
   }
-})
-
-const Root = p => (
-  <View style={styles.view}>
-    <App />
-  </View>
 )
-
-export default Root

@@ -1,14 +1,14 @@
 import React, { Component } from 'react'
 import { View, Text } from 'react-native'
 
-class SettingsView extends Component {
+class HomeView extends Component {
   render () {
     return (
       <View>
-        <Text>Settings for teh remotez</Text>
+        <Text>Remotes and shizz</Text>
       </View>
     )
   }
 }
 
-export default SettingsView
+export default HomeView
