@@ -1,32 +1,7 @@
 import React from 'react'
-import { StyleSheet, Text, View, Button } from 'react-native'
-import { Provider, connect } from 'react-redux'
+import { Provider } from 'react-redux'
 
-import store, { sendMessage } from './store/'
+import store from './store'
+import Root from './src/Root'
 
-const appStatus = {
-  0: 'fail',
-  1: 'success',
-  '-1': 'loading'
-}
-
-const App = ({ sendMessage, success }) => (
-  <View style={styles.container}>
-    <Text>{appStatus[success]}</Text>
-    <Button onPress={e => sendMessage('vol+')} title='Vol+' />
-    <Button onPress={e => sendMessage('vol-')} title='Vol-' />
-  </View>
-)
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center'
-  }
-})
-
-const ConnApp = connect(state => state, { sendMessage })(App)
-
-export default p => <Provider store={store}><ConnApp /></Provider>
+export default p => <Provider store={store}><Root /></Provider>
