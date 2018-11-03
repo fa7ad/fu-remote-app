@@ -6,7 +6,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-es2015": "^6.24.1",
     "eslint": "^5.4.0",
-    "react-native-scripts": "1.14.1"
+    "react-native-scripts": "2.0.1"
   },
   "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
   "scripts": {
