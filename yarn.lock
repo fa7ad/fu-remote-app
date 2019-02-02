@@ -3000,9 +3000,9 @@ immediate@^3.2.2:
   version "3.2.3"
   resolved "https://registry.yarnpkg.com/immediate/-/immediate-3.2.3.tgz#d140fa8f614659bd6541233097ddaac25cdd991c"
 
-immer@^1.5.0:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/immer/-/immer-1.5.0.tgz#1ed9b1b653643fe9276bbc36377613523ea32a39"
+immer@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/immer/-/immer-2.0.0.tgz#d834c874d2d249f73511af39f3ef1ed3b7411132"
 
 imurmurhash@^0.1.4:
   version "0.1.4"
@@ -4489,12 +4489,6 @@ react-native-safe-area-view@^0.11.0:
   dependencies:
     hoist-non-react-statics "^2.3.1"
 
-react-native-safe-area-view@^0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/react-native-safe-area-view/-/react-native-safe-area-view-0.7.0.tgz#38f5ab9368d6ef9e5d18ab64212938af3ec39421"
-  dependencies:
-    hoist-non-react-statics "^2.3.1"
-
 react-native-safe-module@^1.1.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/react-native-safe-module/-/react-native-safe-module-1.2.0.tgz#a23824ca24edc2901913694a76646475113d570d"
@@ -4633,17 +4627,7 @@ react-navigation-stack@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/react-navigation-stack/-/react-navigation-stack-1.0.1.tgz#988a6bfa482042e995335c29d4c272647fa9172d"
 
-react-navigation-tabs@^0.4.0:
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/react-navigation-tabs/-/react-navigation-tabs-0.4.1.tgz#b367535c1b00fc2046341ae93cb8d3e8e0b96a11"
-  dependencies:
-    hoist-non-react-statics "^2.5.0"
-    prop-types "^15.6.1"
-    react-lifecycles-compat "^3.0.4"
-    react-native-safe-area-view "^0.7.0"
-    react-native-tab-view "^1.0.0"
-
-react-navigation-tabs@^1.0.0:
+react-navigation-tabs@1.0.0, react-navigation-tabs@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/react-navigation-tabs/-/react-navigation-tabs-1.0.0.tgz#f9fe3eb8b77787551d017d1279ec049c3bed4950"
   dependencies:
