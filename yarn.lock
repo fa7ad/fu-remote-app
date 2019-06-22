@@ -2079,256 +2079,256 @@ expand-range@^1.8.1:
   dependencies:
     fill-range "^2.1.0"
 
-expo-ads-admob@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-ads-admob/-/expo-ads-admob-5.0.0.tgz#cd755d7520f21d6cdee5ceefc26959864b45a081"
+expo-ads-admob@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-ads-admob/-/expo-ads-admob-5.0.1.tgz#5a74e7cfba3ef8b81b34697df52a78b6d95e9761"
   dependencies:
     prop-types "^15.6.2"
 
-expo-ads-facebook@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-ads-facebook/-/expo-ads-facebook-5.0.0.tgz#87c8a120d228d726747b31a27cc79223e1640d1c"
+expo-ads-facebook@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-ads-facebook/-/expo-ads-facebook-5.0.1.tgz#3b563446c4bb2cd18e9a189da0d0671612be477e"
   dependencies:
     fbemitter "^2.1.1"
     nullthrows "^1.1.0"
 
-expo-analytics-amplitude@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-analytics-amplitude/-/expo-analytics-amplitude-5.0.0.tgz#430086f7bb291a0d198e672896b6e2ef9af2e863"
+expo-analytics-amplitude@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-analytics-amplitude/-/expo-analytics-amplitude-5.0.1.tgz#2f0d046f1949342c45cf0b6351f5b021357d4f92"
 
-expo-analytics-segment@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-analytics-segment/-/expo-analytics-segment-5.0.0.tgz#75f680b63d3c822a39f9d6a3facf79c7a0ffb327"
+expo-analytics-segment@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-analytics-segment/-/expo-analytics-segment-5.0.1.tgz#63443c0c8fa133ce558b557e28baad12326c8bd2"
 
-expo-app-auth@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-app-auth/-/expo-app-auth-5.0.0.tgz#e123a5b5f1ff2e55347d9113fd6bba267237247a"
+expo-app-auth@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-app-auth/-/expo-app-auth-5.0.1.tgz#ddf5417d33931870311c8b7571f8d2ad13bbfc2a"
   dependencies:
     invariant "^2.2.4"
 
-expo-app-loader-provider@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-app-loader-provider/-/expo-app-loader-provider-5.0.0.tgz#2771320ffb6d2ba3cf14f8c7f053d47ee2a7d905"
+expo-app-loader-provider@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-app-loader-provider/-/expo-app-loader-provider-5.0.1.tgz#56f531e189de8407bdf257d5753ccec43dd253f7"
 
-expo-asset@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-asset/-/expo-asset-5.0.0.tgz#1b1809ceb2413976f091c66ceb1e7cfbb266c94a"
+expo-asset@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-asset/-/expo-asset-5.0.1.tgz#02445aeb695b8449cb7239e11fc3a8d34e6c86ce"
   dependencies:
     blueimp-md5 "^2.10.0"
     path-browserify "^1.0.0"
     url-parse "^1.4.4"
 
-expo-av@~5.0.1:
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/expo-av/-/expo-av-5.0.1.tgz#78bf1b910ca8fb8db95360a8dd05c6a101067fbf"
+expo-av@~5.0.2:
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/expo-av/-/expo-av-5.0.2.tgz#8f308fc14d7be8b3bc79d6f8dc6c270da07f94d4"
   dependencies:
     lodash "^4.17.11"
 
-expo-background-fetch@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-background-fetch/-/expo-background-fetch-5.0.0.tgz#ed1e8014311c3613389de009ca2a6a5480c2a03d"
+expo-background-fetch@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-background-fetch/-/expo-background-fetch-5.0.1.tgz#103538d81dda5010dd4f525dd4c73daaa54f61d8"
   dependencies:
-    expo-task-manager "~5.0.0"
+    expo-task-manager "~5.0.1"
 
-expo-barcode-scanner@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-barcode-scanner/-/expo-barcode-scanner-5.0.0.tgz#9b191b087306a458afb65baae0ce613c72861b91"
-  dependencies:
-    lodash "^4.6.0"
-    prop-types "^15.6.0"
-
-expo-blur@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-blur/-/expo-blur-5.0.0.tgz#794f9c066084daa0c67b4dbd5e39be1ad1fde5c1"
-  dependencies:
-    prop-types "^15.6.0"
-
-expo-brightness@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-brightness/-/expo-brightness-5.0.0.tgz#77a027d5a656cbddeb120b90d48a517eab771a21"
-
-expo-calendar@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-calendar/-/expo-calendar-5.0.0.tgz#d97921bd35ba826a37d6eaea035771fd958f5796"
-
-expo-camera@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-camera/-/expo-camera-5.0.0.tgz#4525f543ee7417dff1099ada0de78efb3f05ef23"
+expo-barcode-scanner@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-barcode-scanner/-/expo-barcode-scanner-5.0.1.tgz#4b35704e05ab61fa5d203ccc27045739072f84f7"
   dependencies:
     lodash "^4.6.0"
     prop-types "^15.6.0"
 
-expo-constants@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-5.0.0.tgz#acb52140ced5842be7b99de9021a9de7edfc1602"
+expo-blur@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-blur/-/expo-blur-5.0.1.tgz#39edbb391965ec3b426ded6b869618d8294dd56c"
+  dependencies:
+    prop-types "^15.6.0"
+
+expo-brightness@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-brightness/-/expo-brightness-5.0.1.tgz#90e0445a34c7ef92c4511211c888bbc50eae0441"
+
+expo-calendar@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-calendar/-/expo-calendar-5.0.1.tgz#52660f08d3a41109080ecfb2ee7ebbcd9f67c071"
+
+expo-camera@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-camera/-/expo-camera-5.0.1.tgz#1c90cda9e368148dbf538d14bd047cdf33ea3350"
+  dependencies:
+    lodash "^4.6.0"
+    prop-types "^15.6.0"
+
+expo-constants@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-5.0.1.tgz#597263397f269d7fe37d9cd6b30e305c16635a00"
   dependencies:
     ua-parser-js "^0.7.19"
 
-expo-contacts@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-contacts/-/expo-contacts-5.0.0.tgz#26db1637a72cb57cf201f8c5d2f54e7f869f9e75"
+expo-contacts@~5.0.2:
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/expo-contacts/-/expo-contacts-5.0.2.tgz#4ed7102e31c426367ba3c9dca86d496b38546ab6"
   dependencies:
     uuid-js "^0.7.5"
 
-expo-crypto@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-crypto/-/expo-crypto-5.0.0.tgz#97024fb5dfa6f2d64efec4485da58a6c913e6488"
+expo-crypto@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-crypto/-/expo-crypto-5.0.1.tgz#ffb48895c68dd5c5f51bf9648152a6d122514ad8"
 
-expo-document-picker@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-document-picker/-/expo-document-picker-5.0.0.tgz#28b67ad8af4b76e8392e68b32f42f7ff69af0c19"
+expo-document-picker@~5.0.1:
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/expo-document-picker/-/expo-document-picker-5.0.2.tgz#e6ea131491c8267bdca1c617ad9ff96c6c4fa675"
   dependencies:
     uuid "^3.3.2"
 
-expo-face-detector@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-face-detector/-/expo-face-detector-5.0.0.tgz#6c1eb389d2f652f7e3673172e0341ccca007e2d4"
+expo-face-detector@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-face-detector/-/expo-face-detector-5.0.1.tgz#51012d54f8d28d470fc18ed6aea333b1fe1271ce"
 
-expo-facebook@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-facebook/-/expo-facebook-5.0.0.tgz#ab343a473996264cd66b93b6731b93b803c74224"
+expo-facebook@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-facebook/-/expo-facebook-5.0.1.tgz#a339ae21c3748185ad583ab3c1979c0d5637afa9"
 
-expo-file-system@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-file-system/-/expo-file-system-5.0.0.tgz#a98a1e387df5fd808c89574e54d4b8bd356454e8"
+expo-file-system@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-file-system/-/expo-file-system-5.0.1.tgz#c26054e512c3bb2e256325b48e603957a24e6210"
   dependencies:
     uuid-js "^0.7.5"
 
-expo-font@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-font/-/expo-font-5.0.0.tgz#3a7999b0cf5bc89aab1e2472a134eb245714a004"
+expo-font@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-font/-/expo-font-5.0.1.tgz#b3174134efd0ce3382db3a6c282147cba8bee203"
   dependencies:
     fontfaceobserver "^2.1.0"
 
-expo-gl-cpp@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-gl-cpp/-/expo-gl-cpp-5.0.0.tgz#80bf33a3edec607c53cbffc076a3ce1bbe5fed7c"
+expo-gl-cpp@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-gl-cpp/-/expo-gl-cpp-5.0.1.tgz#cc83b18c4ab0e3e125cb95cf501975455a2c5bbe"
 
-expo-gl@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-gl/-/expo-gl-5.0.0.tgz#aa3c36a0c2abfb758932b78d9700538e3ca1c3f4"
+expo-gl@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-gl/-/expo-gl-5.0.1.tgz#52cb200a76744131284622622cde16032b176397"
   dependencies:
-    expo-gl-cpp "~5.0.0"
+    expo-gl-cpp "~5.0.1"
     prop-types "^15.6.2"
 
-expo-google-sign-in@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-google-sign-in/-/expo-google-sign-in-5.0.0.tgz#fb82d31acbd67f132b0f67fdb55dda06a1ea5cf5"
+expo-google-sign-in@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-google-sign-in/-/expo-google-sign-in-5.0.1.tgz#1285afd2cb605129c310ef89b555ba8a3a5f61c2"
   dependencies:
     invariant "^2.2.4"
 
-expo-haptics@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-haptics/-/expo-haptics-5.0.0.tgz#0f9301c165ebcbf6024a890c0842603a244a2772"
+expo-haptics@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-haptics/-/expo-haptics-5.0.1.tgz#60b67bc613522ddd1ad5e4d701412771fe333c40"
 
-expo-image-manipulator@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-image-manipulator/-/expo-image-manipulator-5.0.0.tgz#8ee18866172b2de3bd33a5a37d0e4d85e6885742"
+expo-image-manipulator@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-image-manipulator/-/expo-image-manipulator-5.0.1.tgz#7e24161eade3888d87471e7fb724fba91d5857eb"
 
-expo-image-picker@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-image-picker/-/expo-image-picker-5.0.0.tgz#2546a28bf2dd74cb7544e545f5b24763f39a5664"
+expo-image-picker@~5.0.2:
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/expo-image-picker/-/expo-image-picker-5.0.2.tgz#975ef46bc614d471f01e6de0b2db42e55aab4a56"
 
-expo-intent-launcher@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-intent-launcher/-/expo-intent-launcher-5.0.0.tgz#4d555847821132144798185a6f576b038c28b828"
+expo-intent-launcher@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-intent-launcher/-/expo-intent-launcher-5.0.1.tgz#906fa3bcf13bf4607a9ac88e323ce0ac427b54cf"
 
-expo-keep-awake@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-keep-awake/-/expo-keep-awake-5.0.0.tgz#f25099377c9874e894cd28904cb7c338a6313082"
+expo-keep-awake@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-keep-awake/-/expo-keep-awake-5.0.1.tgz#15aeffd9de673f7eaf145449883e8d83f7d7a799"
 
-expo-linear-gradient@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-linear-gradient/-/expo-linear-gradient-5.0.0.tgz#30b57b64501f66acedcecc4fe7361087b50ea62c"
+expo-linear-gradient@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-linear-gradient/-/expo-linear-gradient-5.0.1.tgz#b4f5450d680b9315f22f4f99fee6a2b90fb49d92"
 
-expo-local-authentication@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-local-authentication/-/expo-local-authentication-5.0.0.tgz#365e5534df2c0d9a5647a8359adc93e7464e7ffd"
+expo-local-authentication@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-local-authentication/-/expo-local-authentication-5.0.1.tgz#e5c239e46cdaa64c342d0fea2411b9294348d252"
   dependencies:
     invariant "^2.2.4"
 
-expo-localization@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-localization/-/expo-localization-5.0.0.tgz#ce36b90d5351099daac480a92963e59ed0d5f18e"
+expo-localization@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-localization/-/expo-localization-5.0.1.tgz#9b617198f4627ed5c4eea406ed1a616dbc6d44f6"
   dependencies:
     rtl-detect "^1.0.2"
 
-expo-location@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-location/-/expo-location-5.0.0.tgz#a028227d270c637e40c02ea7c110913f9a6f94d9"
+expo-location@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-location/-/expo-location-5.0.1.tgz#697adb49b42018db9e32aa05b7623e0d71250eb9"
   dependencies:
     invariant "^2.2.4"
 
-expo-mail-composer@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-mail-composer/-/expo-mail-composer-5.0.0.tgz#1e6f1fa4bbb22d68f1a60aba43e38b2acea742b5"
+expo-mail-composer@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-mail-composer/-/expo-mail-composer-5.0.1.tgz#adf4eb2e9a3d4f79b9d128b6c45e8a16c89db818"
   dependencies:
     lodash "^4.6.0"
     query-string "^6.2.0"
 
-expo-media-library@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-media-library/-/expo-media-library-5.0.0.tgz#ee593a55b23e5be854785a0a96b7434180aa2925"
+expo-media-library@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-media-library/-/expo-media-library-5.0.1.tgz#f7f3b7fa0808eac224cd966583253380f0af2d1d"
 
-expo-payments-stripe@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-payments-stripe/-/expo-payments-stripe-5.0.0.tgz#21b9c6be8e226990c7946775ec15d49cf088f97a"
+expo-payments-stripe@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-payments-stripe/-/expo-payments-stripe-5.0.1.tgz#da096cf81fc03dbfd540ce6814cc67222d7447ff"
 
-expo-permissions@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-permissions/-/expo-permissions-5.0.0.tgz#ab6cf7666f7f54b06cf4d6737f61b36f258aa12a"
+expo-permissions@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-permissions/-/expo-permissions-5.0.1.tgz#cc6af49a37ea3ab73e780a8a19f22b7662379941"
 
-expo-print@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-print/-/expo-print-5.0.0.tgz#0503abf9d28a4d22ff095ab73ba5b80789102e70"
+expo-print@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-print/-/expo-print-5.0.1.tgz#2daca5538a4447764a2910a6cd95d7b844c6637d"
 
-expo-random@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-random/-/expo-random-5.0.0.tgz#fb781d12a329a4c7be5346b5bd14b257deb281ac"
+expo-random@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-random/-/expo-random-5.0.1.tgz#44ba8b3324f7d179aa1a6f30ccb4d4e3c94afe32"
   dependencies:
     base64-js "^1.3.0"
 
-expo-secure-store@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-secure-store/-/expo-secure-store-5.0.0.tgz#fc51180b87ab9306657a8b5ec4345f32dd167934"
+expo-secure-store@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-secure-store/-/expo-secure-store-5.0.1.tgz#451d61e9519bb964e315c2be336e2aa5f130b8a4"
 
-expo-sensors@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-sensors/-/expo-sensors-5.0.0.tgz#636b8adeabf6859e14eeb228440dcc4f9816564f"
+expo-sensors@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-sensors/-/expo-sensors-5.0.1.tgz#67dd446f1318712c90d714807f195c263e18552b"
   dependencies:
     invariant "^2.2.4"
 
-expo-sharing@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-sharing/-/expo-sharing-5.0.0.tgz#82de6c8da023fb0821485738058564e84b82dc19"
-
-expo-sms@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-sms/-/expo-sms-5.0.0.tgz#80d2ea6491ba2fe4b26006b5a0dee11246d0609f"
-
-expo-speech@~5.0.1:
+expo-sharing@~5.0.1:
   version "5.0.1"
-  resolved "https://registry.yarnpkg.com/expo-speech/-/expo-speech-5.0.1.tgz#8da9e4334049ddab32f95a459bab9ad53078eade"
+  resolved "https://registry.yarnpkg.com/expo-sharing/-/expo-sharing-5.0.1.tgz#ec761be19469e39650e45972053663eae8ed0431"
 
-expo-sqlite@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-sqlite/-/expo-sqlite-5.0.0.tgz#b7a3f7034f23248fdff04b298532526e49c4689d"
+expo-sms@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-sms/-/expo-sms-5.0.1.tgz#c4f40e9bd15a2f3d8641595807aff536d88bb083"
+
+expo-speech@~5.0.2:
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/expo-speech/-/expo-speech-5.0.2.tgz#ccc66e50614ebbdc06296dde150560c55b8333fd"
+
+expo-sqlite@~5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/expo-sqlite/-/expo-sqlite-5.0.1.tgz#71bb054141929371330de6ac7a9c16294e05a177"
   dependencies:
     "@expo/websql" "^1.0.1"
     "@types/websql" "^0.0.27"
     lodash "^4.17.11"
 
-expo-task-manager@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/expo-task-manager/-/expo-task-manager-5.0.0.tgz#1e80270ac1470d1991d1f4ed96ce076e5612797b"
-
-expo-web-browser@~5.0.1:
+expo-task-manager@~5.0.1:
   version "5.0.1"
-  resolved "https://registry.yarnpkg.com/expo-web-browser/-/expo-web-browser-5.0.1.tgz#5b65f3fa93a80d92048128774d9f92a4d67036c5"
+  resolved "https://registry.yarnpkg.com/expo-task-manager/-/expo-task-manager-5.0.1.tgz#18e0a2a7539617d7731c3e4e9bedcf0a3574577b"
 
-expo@^33.0.0:
-  version "33.0.2"
-  resolved "https://registry.yarnpkg.com/expo/-/expo-33.0.2.tgz#374b30426d6af2494917fb110ec7e53077af3274"
+expo-web-browser@~5.0.3:
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/expo-web-browser/-/expo-web-browser-5.0.3.tgz#c382358ece64a4fad5a5996795faea3446072298"
+
+expo@^33.0.7:
+  version "33.0.7"
+  resolved "https://registry.yarnpkg.com/expo/-/expo-33.0.7.tgz#e121044c04120ad6d74df6b0099d5d8194244349"
   dependencies:
     "@babel/runtime" "^7.1.2"
     "@expo/vector-icons" "^10.0.1"
@@ -2342,54 +2342,54 @@ expo@^33.0.0:
     "@unimodules/react-native-adapter" "^2.0.0"
     babel-preset-expo "^5.0.0"
     cross-spawn "^6.0.5"
-    expo-ads-admob "~5.0.0"
-    expo-ads-facebook "~5.0.0"
-    expo-analytics-amplitude "~5.0.0"
-    expo-analytics-segment "~5.0.0"
-    expo-app-auth "~5.0.0"
-    expo-app-loader-provider "~5.0.0"
-    expo-asset "~5.0.0"
-    expo-av "~5.0.1"
-    expo-background-fetch "~5.0.0"
-    expo-barcode-scanner "~5.0.0"
-    expo-blur "~5.0.0"
-    expo-brightness "~5.0.0"
-    expo-calendar "~5.0.0"
-    expo-camera "~5.0.0"
-    expo-constants "~5.0.0"
-    expo-contacts "~5.0.0"
-    expo-crypto "~5.0.0"
-    expo-document-picker "~5.0.0"
-    expo-face-detector "~5.0.0"
-    expo-facebook "~5.0.0"
-    expo-file-system "~5.0.0"
-    expo-font "~5.0.0"
-    expo-gl "~5.0.0"
-    expo-gl-cpp "~5.0.0"
-    expo-google-sign-in "~5.0.0"
-    expo-haptics "~5.0.0"
-    expo-image-manipulator "~5.0.0"
-    expo-image-picker "~5.0.0"
-    expo-intent-launcher "~5.0.0"
-    expo-keep-awake "~5.0.0"
-    expo-linear-gradient "~5.0.0"
-    expo-local-authentication "~5.0.0"
-    expo-localization "~5.0.0"
-    expo-location "~5.0.0"
-    expo-mail-composer "~5.0.0"
-    expo-media-library "~5.0.0"
-    expo-payments-stripe "~5.0.0"
-    expo-permissions "~5.0.0"
-    expo-print "~5.0.0"
-    expo-random "~5.0.0"
-    expo-secure-store "~5.0.0"
-    expo-sensors "~5.0.0"
-    expo-sharing "~5.0.0"
-    expo-sms "~5.0.0"
-    expo-speech "~5.0.1"
-    expo-sqlite "~5.0.0"
-    expo-task-manager "~5.0.0"
-    expo-web-browser "~5.0.1"
+    expo-ads-admob "~5.0.1"
+    expo-ads-facebook "~5.0.1"
+    expo-analytics-amplitude "~5.0.1"
+    expo-analytics-segment "~5.0.1"
+    expo-app-auth "~5.0.1"
+    expo-app-loader-provider "~5.0.1"
+    expo-asset "~5.0.1"
+    expo-av "~5.0.2"
+    expo-background-fetch "~5.0.1"
+    expo-barcode-scanner "~5.0.1"
+    expo-blur "~5.0.1"
+    expo-brightness "~5.0.1"
+    expo-calendar "~5.0.1"
+    expo-camera "~5.0.1"
+    expo-constants "~5.0.1"
+    expo-contacts "~5.0.2"
+    expo-crypto "~5.0.1"
+    expo-document-picker "~5.0.1"
+    expo-face-detector "~5.0.1"
+    expo-facebook "~5.0.1"
+    expo-file-system "~5.0.1"
+    expo-font "~5.0.1"
+    expo-gl "~5.0.1"
+    expo-gl-cpp "~5.0.1"
+    expo-google-sign-in "~5.0.1"
+    expo-haptics "~5.0.1"
+    expo-image-manipulator "~5.0.1"
+    expo-image-picker "~5.0.2"
+    expo-intent-launcher "~5.0.1"
+    expo-keep-awake "~5.0.1"
+    expo-linear-gradient "~5.0.1"
+    expo-local-authentication "~5.0.1"
+    expo-localization "~5.0.1"
+    expo-location "~5.0.1"
+    expo-mail-composer "~5.0.1"
+    expo-media-library "~5.0.1"
+    expo-payments-stripe "~5.0.1"
+    expo-permissions "~5.0.1"
+    expo-print "~5.0.1"
+    expo-random "~5.0.1"
+    expo-secure-store "~5.0.1"
+    expo-sensors "~5.0.1"
+    expo-sharing "~5.0.1"
+    expo-sms "~5.0.1"
+    expo-speech "~5.0.2"
+    expo-sqlite "~5.0.1"
+    expo-task-manager "~5.0.1"
+    expo-web-browser "~5.0.3"
     fbemitter "^2.1.1"
     invariant "^2.2.2"
     lodash "^4.6.0"
@@ -2409,15 +2409,15 @@ expo@^33.0.0:
     react-native-view-shot "2.6.0"
     react-native-webview "5.8.1"
     serialize-error "^2.1.0"
-    unimodules-barcode-scanner-interface "~2.0.0"
-    unimodules-camera-interface "~2.0.0"
-    unimodules-constants-interface "~2.0.0"
-    unimodules-face-detector-interface "~2.0.0"
-    unimodules-file-system-interface "~2.0.0"
-    unimodules-font-interface "~2.0.0"
-    unimodules-image-loader-interface "~2.0.0"
-    unimodules-permissions-interface "~2.0.0"
-    unimodules-sensors-interface "~2.0.0"
+    unimodules-barcode-scanner-interface "~2.0.1"
+    unimodules-camera-interface "~2.0.1"
+    unimodules-constants-interface "~2.0.1"
+    unimodules-face-detector-interface "~2.0.1"
+    unimodules-file-system-interface "~2.0.1"
+    unimodules-font-interface "~2.0.1"
+    unimodules-image-loader-interface "~2.0.1"
+    unimodules-permissions-interface "~2.0.1"
+    unimodules-sensors-interface "~2.0.1"
     uuid-js "^0.7.5"
 
 extend-shallow@^1.1.2:
@@ -4528,13 +4528,9 @@ react-native-safe-module@^1.1.0:
   dependencies:
     dedent "^0.6.0"
 
-react-native-screens@1.0.0-alpha.22:
+react-native-screens@1.0.0-alpha.22, "react-native-screens@^1.0.0 || ^1.0.0-alpha":
   version "1.0.0-alpha.22"
   resolved "https://registry.yarnpkg.com/react-native-screens/-/react-native-screens-1.0.0-alpha.22.tgz#7a120377b52aa9bbb94d0b8541a014026be9289b"
-
-"react-native-screens@^1.0.0 || ^1.0.0-alpha":
-  version "1.0.0-alpha.16"
-  resolved "https://registry.yarnpkg.com/react-native-screens/-/react-native-screens-1.0.0-alpha.16.tgz#e3651b7077ea8fa04e8dd3265ad9b87f1f77a758"
 
 react-native-scripts@2.0.1:
   version "2.0.1"
@@ -5498,41 +5494,41 @@ unicode-property-aliases-ecmascript@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-1.0.4.tgz#5a533f31b4317ea76f17d807fa0d116546111dd0"
 
-unimodules-barcode-scanner-interface@~2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/unimodules-barcode-scanner-interface/-/unimodules-barcode-scanner-interface-2.0.0.tgz#17d6d8be52b12329c1885135e1b479da21ace990"
+unimodules-barcode-scanner-interface@~2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/unimodules-barcode-scanner-interface/-/unimodules-barcode-scanner-interface-2.0.1.tgz#74196fe25c366344ff101540626b8d61cc6c0438"
 
-unimodules-camera-interface@~2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/unimodules-camera-interface/-/unimodules-camera-interface-2.0.0.tgz#03764c3c435b315525ff8e7f8e8efc687489cfe8"
+unimodules-camera-interface@~2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/unimodules-camera-interface/-/unimodules-camera-interface-2.0.1.tgz#0691ce3282fafaf87aecc3423b1d9c1b729797a4"
 
-unimodules-constants-interface@~2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/unimodules-constants-interface/-/unimodules-constants-interface-2.0.0.tgz#fe00378e6eb7b4b2fc098b7388b12861022320b4"
+unimodules-constants-interface@~2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/unimodules-constants-interface/-/unimodules-constants-interface-2.0.1.tgz#385a8adab7f22b4aa8cca2c302516c0465a64773"
 
-unimodules-face-detector-interface@~2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/unimodules-face-detector-interface/-/unimodules-face-detector-interface-2.0.0.tgz#cab137147596f79032519aca19e82934e09ac9b8"
+unimodules-face-detector-interface@~2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/unimodules-face-detector-interface/-/unimodules-face-detector-interface-2.0.1.tgz#a9f3150f69fd8061f6ea920e6ae83c544990b549"
 
-unimodules-file-system-interface@~2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/unimodules-file-system-interface/-/unimodules-file-system-interface-2.0.0.tgz#eba7f94684b3e3ff0e7e7c94830a30133bbb40a6"
+unimodules-file-system-interface@~2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/unimodules-file-system-interface/-/unimodules-file-system-interface-2.0.1.tgz#5fc237b5c4adaa48bd817a9542271d4210d978a9"
 
-unimodules-font-interface@~2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/unimodules-font-interface/-/unimodules-font-interface-2.0.0.tgz#59a2e9771b1242dfda76e6af1f839af9e9b92929"
+unimodules-font-interface@~2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/unimodules-font-interface/-/unimodules-font-interface-2.0.1.tgz#c2fee253c12d8ae45594adfe8dabff3ac57884de"
 
-unimodules-image-loader-interface@~2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/unimodules-image-loader-interface/-/unimodules-image-loader-interface-2.0.0.tgz#54c72da9f8980df5155e428e3fc02e09c57fca8b"
+unimodules-image-loader-interface@~2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/unimodules-image-loader-interface/-/unimodules-image-loader-interface-2.0.1.tgz#d9d9148638d594bbdb95963449b78b5d0c686eb0"
 
-unimodules-permissions-interface@~2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/unimodules-permissions-interface/-/unimodules-permissions-interface-2.0.0.tgz#76a733f0df855d40980193870b1bd48a32df6700"
+unimodules-permissions-interface@~2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/unimodules-permissions-interface/-/unimodules-permissions-interface-2.0.1.tgz#a8a21807095553a0476a72028ae7f3beab090dbd"
 
-unimodules-sensors-interface@~2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/unimodules-sensors-interface/-/unimodules-sensors-interface-2.0.0.tgz#4a55fcd8073908573b0e79a121e60771c8aaf8b0"
+unimodules-sensors-interface@~2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/unimodules-sensors-interface/-/unimodules-sensors-interface-2.0.1.tgz#5e24964bba0a541b1d4d8d3b82e54efb1aba96b9"
 
 union-value@^1.0.0:
   version "1.0.0"
