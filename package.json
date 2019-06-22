@@ -18,7 +18,7 @@
     "expo": "^33.0.0",
     "immer": "^2.0.0",
     "prop-types": "^15.6.2",
-    "react": "16.6.3",
+    "react": "16.8.6",
     "react-native": "~0.59.0",
     "react-native-vector-icons": "^6.5.0",
     "react-navigation": "^3.0.0",
