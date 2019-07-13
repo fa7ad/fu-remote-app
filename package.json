@@ -24,7 +24,7 @@
     "react-navigation": "^3.11.1",
     "react-navigation-material-bottom-tabs": "^1.0.0",
     "react-redux": "^7.1.0",
-    "redux": "^4.0.1",
+    "redux": "^4.0.4",
     "redux-middleware-websocket": "^0.0.23",
     "sockjs-client": "^1.3.0"
   }
