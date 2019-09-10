@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "expo": "^34.0.4",
-    "immer": "^3.2.0",
+    "immer": "^3.2.1",
     "prop-types": "^15.6.2",
     "react": "16.8.6",
     "react-native": "~0.60.5",

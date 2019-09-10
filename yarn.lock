@@ -3268,9 +3268,9 @@ immediate@^3.2.2:
   version "3.2.3"
   resolved "https://registry.yarnpkg.com/immediate/-/immediate-3.2.3.tgz#d140fa8f614659bd6541233097ddaac25cdd991c"
 
-immer@^3.2.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/immer/-/immer-3.2.0.tgz#53686471e9dd2b070e0fb5500c6fdecd3a99375f"
+immer@^3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/immer/-/immer-3.2.1.tgz#e3070a96508ffdb7331f8bf681f2a55f8729d0cd"
 
 import-fresh@^2.0.0:
   version "2.0.0"
