@@ -4839,9 +4839,9 @@ react-navigation-material-bottom-tabs@^2.1.2:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/react-navigation-material-bottom-tabs/-/react-navigation-material-bottom-tabs-2.1.2.tgz#d7d91df3284bf44114861d229af821ed98dbbec0"
 
-react-navigation@^4.0.9:
-  version "4.0.9"
-  resolved "https://registry.yarnpkg.com/react-navigation/-/react-navigation-4.0.9.tgz#2fb7547d1888442eb94aa33fa40f72e4b26cc915"
+react-navigation@^4.0.10:
+  version "4.0.10"
+  resolved "https://registry.yarnpkg.com/react-navigation/-/react-navigation-4.0.10.tgz#ddf41134600689d6ba99e35dd22ba1f664f91e5c"
   dependencies:
     "@react-navigation/core" "^3.5.1"
     "@react-navigation/native" "^3.6.2"
