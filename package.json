@@ -19,7 +19,7 @@
     "immer": "^4.0.1",
     "prop-types": "^15.6.2",
     "react": "16.9.0",
-    "react-native": "~0.61.1",
+    "react-native": "~0.61.2",
     "react-native-vector-icons": "^6.6.0",
     "react-navigation": "^4.0.10",
     "react-navigation-material-bottom-tabs": "^2.1.2",
