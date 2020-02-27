@@ -4965,9 +4965,9 @@ react-native@~0.61.5:
     stacktrace-parser "^0.1.3"
     whatwg-fetch "^3.0.0"
 
-react-navigation-material-bottom-tabs@^2.1.5:
-  version "2.1.5"
-  resolved "https://registry.yarnpkg.com/react-navigation-material-bottom-tabs/-/react-navigation-material-bottom-tabs-2.1.5.tgz#ccf0571d042245649093b979e308995e3681dbcb"
+react-navigation-material-bottom-tabs@^2.2.2:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/react-navigation-material-bottom-tabs/-/react-navigation-material-bottom-tabs-2.2.2.tgz#2ddfa9c142ebce148a8e7bfd71b350a8deb2407c"
 
 react-navigation@^4.1.1:
   version "4.1.1"
