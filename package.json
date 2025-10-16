@@ -15,7 +15,7 @@
     "ios": "react-native-scripts ios"
   },
   "dependencies": {
-    "expo": "^37.0.6",
+    "expo": "^48.0.0",
     "immer": "^9.0.6",
     "prop-types": "^15.6.2",
     "react": "16.9.0",
